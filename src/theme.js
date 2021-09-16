@@ -1,18 +1,18 @@
 // theme.js
 export const blueTheme = {
-  body: "#EDF9FE",
-  text: "#001C55",
-  highlight: "#A6E1FA",
+  body: "#FFFFFF",
+  text: "#FF5200",
+  highlight: "#203541",
   dark: "#00072D",
-  secondaryText: "#7F8DAA",
-  imageHighlight: "#0E6BA8",
+  secondaryText: "#203541",
+  imageHighlight: "#FFD933",
   compImgHighlight: "#E6E6E6",
-  jacketColor: "#0A2472",
+  jacketColor: "#542E71",
   headerColor: "#0E6BA877",
 };
 
 export const brownTheme = {
-  body: "#FFFEFD",
+  body: "#FB3640",
   text: "#5D2A42",
   highlight: "#FFF9EC",
   dark: "#00072D",
@@ -98,10 +98,10 @@ export const violetTheme = {
 export const greenTheme = {
   body: "#E6FAF5",
   text: "#084c61",
-  highlight: "#9BEED8",
+  highlight: "#F2C625",
   dark: "#031E26",
   secondaryText: "#528190",
-  imageHighlight: "#07beb8",
+  imageHighlight: "#F2C625",
   compImgHighlight: "#E6E6E6",
   jacketColor: "#56a3a6",
   headerColor: "#07beb877",
